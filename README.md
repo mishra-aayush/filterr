@@ -1,6 +1,6 @@
 # Image Processing Application
 
-A Python Application to add filters to images. It has a Tkinter based GUI and allows the user to add opencv filters such as Grayscale, Gaussian Blur, Negative, Sepia, Edged and Contrast Limited Adaptive Histogram Equalization.
+A Python Application to add filters to images. It has a Tkinter based GUI and allows the user to add OpenCV filters such as Grayscale, Gaussian Blur, Negative, Sepia, Edged and Contrast Limited Adaptive Histogram Equalization.
 
 ## Working of the Application
 
