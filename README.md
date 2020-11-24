@@ -14,6 +14,6 @@ A Python Application to add filters to images. It has a Tkinter based GUI and al
 
 3. As the user switches between the effects, the image on the output panel changes. The user also has the option to view the original image by clicking the button below the select image option.
 
-Here, the Sepia effect is used for the exaample
+Here, the Sepia effect is used for the example
 
 ![Sepia Effect](sepia.JPG)
