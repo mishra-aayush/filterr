@@ -1,4 +1,4 @@
-# Filter
+# Filterr
 
 A Python Application to add filters to images. It has a Tkinter based GUI and allows the user to add OpenCV filters such as Grayscale, Gaussian Blur, Negative, Sepia, Edged and Contrast Limited Adaptive Histogram Equalization.
 
